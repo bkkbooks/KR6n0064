@@ -1,0 +1,346 @@
+canonical_identifier: bkk:krp/KR6n0064/T/v1
+canonical_location: https://kanripo.org/bkk/KR6n0064/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 攝大乘論釋
+  identifiers:
+    krp: KR6n0064
+    cbeta: T31n1597
+    cbeta_old_id: T31n1597
+    authorityid: CA0004186
+    json_key: T1597
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T31/T31n1597.xml
+    old_id: T31n1597
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0064_000-T.yaml, hash: 'sha256:aaa92674ae60b1a0fc5e9f7a4ae50f36c5e642914e5b24ae750d0deaffe7ca53'}
+  - {seq: 1, filename: KR6n0064_001-T.yaml, hash: 'sha256:a29aea8ad62a3404ac806b9f861dd6ce6e0a4b7da3d38140e5f2aabe4eda6d1e'}
+  - {seq: 2, filename: KR6n0064_002-T.yaml, hash: 'sha256:91a11be319131c0a4e44baa64745c8d69344723ba9688b5b0378bb3dee22c6f8'}
+  - {seq: 3, filename: KR6n0064_003-T.yaml, hash: 'sha256:3efb4a368a80fa347d3693835d21e3842c6cc9d3c83b6a032a7e5a21b8762bb0'}
+  - {seq: 4, filename: KR6n0064_004-T.yaml, hash: 'sha256:fc924ad1c4ee2f0780d8720a8d3044fc587dae43b2a43e84b327617fba41466b'}
+  - {seq: 5, filename: KR6n0064_005-T.yaml, hash: 'sha256:9d43e2499af35f22df5afb1321638023993f4ede6cc8d465928db0596a80b362'}
+  - {seq: 6, filename: KR6n0064_006-T.yaml, hash: 'sha256:1afa0d93ff449133b90b4eefce79ad829d51eb73a5da31be74ad954f37419754'}
+  - {seq: 7, filename: KR6n0064_007-T.yaml, hash: 'sha256:9bfdc49c41c9db0470e41aa432eb9073864d8b86c759be990d9f7ef4ca4cd498'}
+  - {seq: 8, filename: KR6n0064_008-T.yaml, hash: 'sha256:980698b9980225c9947e532d72102cda3f8465f454a845f4472a1e1aaebe11ab'}
+  - {seq: 9, filename: KR6n0064_009-T.yaml, hash: 'sha256:5fbf7e948884dae458bf56786674280e391a3d269e65f0e040f0865763382c22'}
+  - {seq: 10, filename: KR6n0064_010-T.yaml, hash: 'sha256:c23fb532bf4d98a20b89afdc85fa1ed93f671e418c40065efafafec3fb32d400'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6n0064_000-T.markers.yaml, hash: 'sha256:09b4414a8a64f45e4d0af24ecf6a4ec501f7ebda0aa86db638fcc2aeba3d431e'}
+  - {seq: 1, role: markers, filename: assets/KR6n0064_001-T.markers.yaml, hash: 'sha256:23d73546131dc6628dc6e2ba6c0e1cf3a3acd1dac7489062c41cce93338cc302'}
+  - {seq: 2, role: markers, filename: assets/KR6n0064_002-T.markers.yaml, hash: 'sha256:1df59360fbbe078bfb57dc97014a88e8f501aa58d2753699bbe925bde008a606'}
+  - {seq: 3, role: markers, filename: assets/KR6n0064_003-T.markers.yaml, hash: 'sha256:ba3e5f7fcc9b559bfedc5e5019999aa37c6839d7d9e58f7ca53eb9476dd775ed'}
+  - {seq: 4, role: markers, filename: assets/KR6n0064_004-T.markers.yaml, hash: 'sha256:37c2d0335011331762f8828fb34ab082826ae828c46b2a233f6884d9ddaaeb14'}
+  - {seq: 5, role: markers, filename: assets/KR6n0064_005-T.markers.yaml, hash: 'sha256:04d0f680de3c5ba34450e9d4d45d943095ada385ffefdacc9eab37b720c55c02'}
+  - {seq: 6, role: markers, filename: assets/KR6n0064_006-T.markers.yaml, hash: 'sha256:b66763334620b43750790f2e296dc3ee8ac7e6a432e9df2099e225afc71622cb'}
+  - {seq: 7, role: markers, filename: assets/KR6n0064_007-T.markers.yaml, hash: 'sha256:c35248d31ed50823275839c671c17705b27bdba2b1940873c2217f180aaf3290'}
+  - {seq: 8, role: markers, filename: assets/KR6n0064_008-T.markers.yaml, hash: 'sha256:a437382f0b877a237c969c0ca436ed2462af2ca0978f0f9e0c791a3ef96f8e74'}
+  - {seq: 9, role: markers, filename: assets/KR6n0064_009-T.markers.yaml, hash: 'sha256:356e438508be92ad013207575bffd7996ccb00921602404616f4c7092bcc3ef9'}
+  - {seq: 10, role: markers, filename: assets/KR6n0064_010-T.markers.yaml, hash: 'sha256:2ef7390554c9b288e51e67f591bebb56a22e34522d8fb274762e86a912f03e5f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6n0064_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7493
+  label: 攝大乘論釋卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0064_T_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 1 總標綱要分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0064_T_001-mulu-2
+    span:
+    - body
+    - 4032
+    - 4032
+  label: 2 所知依分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6n0064_T_001-mulu-3
+    span:
+    - body
+    - 4032
+    - 4032
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0064_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6248
+  label: 攝大乘論釋卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6n0064_T_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0064_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8024
+  label: 攝大乘論釋卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0064_T_003-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: '3'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0064_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7067
+  label: 攝大乘論釋卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0064_T_004-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 3 所知相分
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0064_T_004-mulu-2
+    span:
+    - body
+    - 14
+    - 14
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0064_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 8189
+  label: 攝大乘論釋卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0064_T_005-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0064_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6546
+  label: 攝大乘論釋卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6n0064_T_006-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 4 入所知相分
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0064_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 8404
+  label: 攝大乘論釋卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0064_T_007-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 5 彼入因果分
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6n0064_T_007-mulu-2
+    span:
+    - body
+    - 4593
+    - 4593
+  label: 6 彼修差別分
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0064_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7558
+  label: 攝大乘論釋卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0064_T_008-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 7 增上戒學分
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0064_T_008-mulu-2
+    span:
+    - body
+    - 1364
+    - 1364
+  label: 8 增上心學分
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0064_T_008-mulu-3
+    span:
+    - body
+    - 3902
+    - 3902
+  label: 9 增上慧學分
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6n0064_T_008-mulu-4
+    span:
+    - body
+    - 3907
+    - 3907
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0064_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 9014
+  label: 攝大乘論釋卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0064_T_009-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0064_T_009-mulu-2
+    span:
+    - body
+    - 2903
+    - 2903
+  label: 10 果斷分
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0064_T_009-mulu-3
+    span:
+    - body
+    - 4300
+    - 4300
+  label: 11 彼果智分
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6n0064_T_009-mulu-4
+    span:
+    - body
+    - 4305
+    - 4305
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0064_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7839
+  label: 攝大乘論釋卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6n0064_T_010-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: '2'
+  type: mulu
+  level: 1
+hash: sha256:a71dbcdc3c7a9ebe552e5d1337664ddb514c5a33ed37329c4aed65114d4edc15
